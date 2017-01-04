@@ -2,7 +2,7 @@
   "name": "Jenkins-CI-Test-NodeJS",
   "version": "1.0.0",
   "dependencies": {
-    
+    "mocha-jenkins-reporter": "0.3.5"
   },
   "devDependencies": {
   },
