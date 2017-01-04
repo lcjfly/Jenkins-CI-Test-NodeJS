@@ -1,5 +1,9 @@
 {
   "dependencies": {
   
+  },
+  "scripts": {
+    "start": "node server.js",
+    //"test": "tap test/*.js"
   }
 }
