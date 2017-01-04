@@ -2,7 +2,7 @@
   "name": "Jenkins-CI-Test-NodeJS",
   "version": "1.0.0",
   "dependencies": {
-    "browserify": "~2.35.2"
+    
   },
   "devDependencies": {
   },
