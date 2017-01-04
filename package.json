@@ -9,6 +9,6 @@
   "scripts": {
     "start": "node server.js",
     "test": "mocha test/success.js",
-    "test-jenkins": "JUNIT_REPORT_PATH=/report.xml mocha --colors --reporter mocha-jenkins-reporter"
+    "test-jenkins": "mocha --colors --reporter mocha-jenkins-reporter"
   }
 }
