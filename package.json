@@ -8,6 +8,6 @@
   },
   "scripts": {
     "start": "node server.js",
-    "test": "mocha test/success.js"
+    "test": "mocha --recursive -R xunit test/ > test-reports.xml"
   }
 }
