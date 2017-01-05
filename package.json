@@ -8,11 +8,6 @@
   },
   "scripts": {
     "start": "node server.js",
-<<<<<<< HEAD
     "test": "mocha --recursive -R xunit test/ > test-reports.xml"
-=======
-    "test": "mocha test/success.js",
-    "test-jenkins": "mocha --colors --reporter mocha-jenkins-reporter"
->>>>>>> d48f056902923496c6b5e6fc078e713a24f40926
   }
 }
